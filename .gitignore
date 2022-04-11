@@ -32,12 +32,5 @@ build/
 ### VS Code ###
 .vscode/
 .DS_Store
-<<<<<<< HEAD
 src/.DS_Store
 src/main/java/com/getarrays/employeemanager/service/README.md
-=======
-src/main/java/com/getarrays/employeemanager/service/README.md
-src/.DS_Store
-
-
->>>>>>> 84bec64 (added DB and CORS)
